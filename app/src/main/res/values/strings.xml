@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuStore Showcase</string>
+    <string name="install">Установить</string>
+    <string name="back">Назад</string>
+    <string name="categories">Категории</string>
+    <string name="view_categories">Все категории</string>
+    <string name="search_hint">Найти приложение</string>
+    <string name="onboarding_title">Добро пожаловать в RuStore</string>
+    <string name="onboarding_body">Собрали для вас лучшие российские приложения. Листайте витрину, изучайте категории и находите новое.</string>
+    <string name="onboarding_cta">Перейти к витрине</string>
+    <string name="screenshots_title">Скриншоты</string>
+    <string name="full_screen_title">Скриншот</string>
+</resources>
